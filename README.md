@@ -20,7 +20,7 @@ Follow me [@elz0xn](https://x.com/elz0xn)
 
 2. Navigate to the project directory:
 
-    `cd vue-gemini-chat`
+    `cd gemini-vue-chat-cloudflare`
 
 3. Install Dependencies at **root** directory for Vue and **at `/cloudflare`** for CF workers.
 
